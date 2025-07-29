@@ -549,6 +549,7 @@ ul {
 .no-scroll {
   overflow: hidden !important; /* Prevents body scrolling */
   height: 100vh;
+  margin: 0;
 }
 /* === End Styling Portfolio Projects Section (Lesson 28) === */
 /* === Begin Styling Portfolio About Section (Lesson 29) === */
